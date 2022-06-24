@@ -5,5 +5,5 @@ const info = {
 };
 
 alert(
-  `Hi, my Name is ${info.name}, I'm ${info.height} tall and I'm from ${info.country}`
+  `Hello there!!, my Name is ${info.name}, I'm ${info.height} tall and I'm from ${info.country}`
 );
